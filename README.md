@@ -1,6 +1,6 @@
 ###the html_file
 
-*3 html_file example*
+*3 htmlfile example*
 
 ```
 <p>
