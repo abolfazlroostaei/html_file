@@ -1,9 +1,9 @@
 #the html_file
 
-*html example*
+*3 html_file example*
 
 ```
 <p>
-this is a paragraf in html file
+this tag define a paragraf in html file
 </p>
 ```
